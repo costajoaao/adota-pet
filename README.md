@@ -107,7 +107,7 @@ App.js
 git clone https://github.com/costajoaao/adota-pet.git
 
 # 2. Entre na pasta
-cd adota-pet
+cd adota-pet/app-firebase
 
 # 3. Instale as dependências
 npm install --legacy-peer-deps
