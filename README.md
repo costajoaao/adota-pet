@@ -16,7 +16,7 @@ Trabalho prático da disciplina **Programação para Dispositivos Móveis (Andro
 
 ## Problema Social
 
-Morando em Florianópolis (Governador Celso Ramos), percebi que é muito comum ver situações em que animais precisam de um novo lar de uma hora para outra: a cachorra teve filhotes, aparece uma caixa cheia de gatinhos na porta de casa, ou o tutor precisa se mudar e não consegue levar o pet. Sei que isso não acontece só aqui — é uma realidade em todo o país.
+Morando em Florianópolis (Governador Celso Ramos), percebi que é muito comum ver situações em que animais precisam de um novo lar de uma hora para outra: a cachorra teve filhotes, aparece uma caixa cheia de gatinhos na porta de casa, ou o tutor precisa se mudar e não consegue levar o pet. Sei que isso não acontece só aqui é uma realidade em todo o país.
 
 O **Adota Pet** resolve isso: qualquer pessoa cadastra seu animal com foto, descrição e contato, e interessados em adotar encontram pets disponíveis com filtros por espécie e busca por cidade, tudo em tempo real e de forma completamente gratuita.
 
