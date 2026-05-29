@@ -27,7 +27,7 @@ O **Adota Pet** resolve isso: qualquer pessoa cadastra seu animal com foto, desc
 - Cadastro e login com e-mail e senha (Firebase Authentication)
 - Verificação de e-mail ao criar conta e recuperação de senha
 - Painel com estatísticas em tempo real (total de pets, disponíveis, adotados)
-- Cadastro de pets com nome, espécie, raça, idade, porte, foto, cidade e contato
+- Cadastro de pets com nome, espécie, raça, idade, porte, link da imagem do seu animal, cidade e contato
 - Listagem de pets com filtro por espécie e busca por nome ou cidade
 - Visualização detalhada de cada pet
 - Marcar pet como adotado (atualização de status em tempo real)
